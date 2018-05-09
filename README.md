@@ -1,7 +1,6 @@
 # localdataclient-datalogin
 localdataclient-datalogin
 
-footer html
 ```php
 <?php
 ob_start();   
